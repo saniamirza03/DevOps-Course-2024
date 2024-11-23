@@ -1,0 +1,34 @@
+WHAT I LEARNED FROM THIS COURSE?
+
+In this course I have learned several fundamental concepts and skills that bring development teams to automate the process of software delivery.
+
+1. What is Devops?
+
+Understanding the core concepts of devops emphasizes on agility, continuous delivery and quality improvement.
+
+2. Tools I have learned
+
+a. Git
+	Tracking changes in source code and collaborating with teams using Git repositories like GitHub.
+
+b. CI/CD Pipelines
+
+	Building pipelines for automated testing, integration, and deployment using tools like GitHub Actions.
+
+c. Containerization
+
+	Working with Docker to create, manage, and deploy containerized applications.
+
+d. Container Orchestration
+
+	Using Kubernetes to manage, scale, and orchestrate containers.
+
+
+3. Applying in practical life
+
+a. How to implement a CI/CD pipeline for faster and more reliable deployments.
+b. Setting up and managing containerized environments.
+c. Automating repetitive tasks to enhance efficiency.
+d. Monitoring applications in production to ensure performance and reliability.
+
+This course gave me the foundation to implement DevOps practices in real-world projects and make software delivery faster, more reliable, and scalable.
